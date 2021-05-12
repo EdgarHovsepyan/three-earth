@@ -1,10 +1,11 @@
 # Webpack THREE.js Template
 
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies (only for first time)
 npm i
 
@@ -14,4 +15,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
 # three-earth
