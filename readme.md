@@ -1,4 +1,4 @@
-# Webpack THREE.js Template
+# Demo https://panda-mr.netlify.app
 
 ## Setup
 
